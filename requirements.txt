@@ -1,0 +1,3 @@
+ffmpeg-python
+tencentcloud-sdk-python
+cos-python-sdk-v5
